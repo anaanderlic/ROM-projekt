@@ -15,6 +15,6 @@ na spol, starost ter raso.
 ki jih usmrtijo, ter državo oz. okolico iz katere prihajajo.
 4. _Raziskala bom podatke_ - o načinih usmrtitev, o ozadju tistih, ki so jih oz. jih bojo usmrtili (ali so 
 bili že kot mlajši problematični in v zaporu za mladostnike, ali so bili kdaj v življenju prostovoljci), 
-o razmerju usmrčenih državljanov ZDA ter tujcih ter o številu žrtev.
+o razmerju usmrčenih državljanov ZDA ter tujcih in o številu žrtev.
 
 Pripravila: _Ana Anderlič_
