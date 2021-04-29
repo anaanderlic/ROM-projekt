@@ -15,7 +15,8 @@ na spol, starost ter raso.
 4. _Analiza podatkov po državah_ - Analizirala bom, če obstaja kakšna povezava med številom ljudi, 
 ki jih usmrtijo, ter državo oz. okolico iz katere prihajajo. Tudi grafični prikaz po državah.
 5. _Analiza še glede na ostale dejavnike_ - o načinih usmrtitev, o ozadju tistih, ki so jih oz. jih bojo usmrtili (ali so 
-bili že kot mlajši problematični in v zaporu za mladostnike, ali so bili kdaj v življenju prostovoljci), 
-o razmerju usmrčenih državljanov ZDA ter tujcih in o številu žrtev.
+bili že kot mlajši problematični in v zaporu za mladostnike ter ali so bili kdaj v življenju prostovoljci).
+6. _Regresijska premica_
+7. _Izdelava aplikacije v oblaku_ - Aplikacija, ki glede na dva vhodna podatka izriše histogram v odvisnosti od le-teh
 
 Pripravila: _Ana Anderlič_
