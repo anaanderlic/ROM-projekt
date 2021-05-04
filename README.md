@@ -16,7 +16,17 @@ na spol, starost ter raso.
 ki jih usmrtijo, ter državo oz. okolico iz katere prihajajo. Tudi grafični prikaz po državah.
 5. _Analiza še glede na ostale dejavnike_ - o načinih usmrtitev, o ozadju tistih, ki so jih oz. jih bojo usmrtili (ali so 
 bili že kot mlajši problematični in v zaporu za mladostnike ter ali so bili kdaj v življenju prostovoljci).
-6. _Regresijska premica_
-7. _Izdelava aplikacije v oblaku_ - Aplikacija, ki glede na državo grafično prikaže usmrtitve skozi čas (po letih)
+6. _Izdelava aplikacije v oblaku_ - Aplikacija, ki glede na državo grafično prikaže prikaz vseh ljudi, ki so jih usmrtili, po starosti.
+7. _Videoposnetek_ - Pripravila bom videoposnetek kratke predstavitve projekta.
+
+**Aplikacija**
+
+Pri projektu sem pripravila aplikacijo v Wolfram cloud. Dostopna je na spodnjem naslovu:
+
+https://www.wolframcloud.com/obj/dff2b20d-4692-4908-870a-8ac01c235dee
+
+**Videoposnetek predstavitve**
+
+###########################
 
 Pripravila: _Ana Anderlič_
