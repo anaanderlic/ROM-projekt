@@ -23,10 +23,10 @@ bili že kot mlajši problematični in v zaporu za mladostnike ter ali so bili k
 
 Pri projektu sem pripravila aplikacijo v Wolfram cloud. Dostopna je na spodnjem naslovu:
 
-https://www.wolframcloud.com/obj/dff2b20d-4692-4908-870a-8ac01c235dee
+https://www.wolframcloud.com/obj/356e6f26-dc7e-44bd-a88d-084eb5e19491
 
 **Videoposnetek predstavitve**
 
-###########################
+https://youtu.be/iZSXxx8wIk4
 
 Pripravila: _Ana Anderlič_
